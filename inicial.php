@@ -51,10 +51,10 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/portada_general_interna.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/b_inicial4.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            /*   background-position: center; */
+              background-position: center;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -370,7 +370,7 @@
                 <br>
 
                 <div class="col-md-6 my-auto" style="display: flex;align-items:end;">
-                    <img id="imageborder" src="./assets/img/fotos/inicial5.jpg" class="" width="100%">
+                    <img id="imageborder" src="./assets/img/web/b_inicial3.jpg" class="" width="100%">
                 </div>
             </div>
             <div class="row d-flex justify-content-center ">

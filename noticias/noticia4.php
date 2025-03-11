@@ -1,18 +1,13 @@
 <div>
 
 
-    <p style="color: black;"> <span class="mr-3"> <i class="fas fa-calendar-alt" aria-hidden="true"></i></span> 18-11-2022</p>
+    <p style="color: black;"> <span class="mr-3"> <i class="fas fa-calendar-alt" aria-hidden="true"></i></span> 10-03-2025</p>
 
-    <h3 class="text-uppercase" style="color: var(--color1);">Boletín Informativo 2023</h3>
+    <h3 class="text-uppercase" style="color: var(--color1);">Bienvenidos al inicio de clases 2025</h3>
     <hr style="background-color: var(--color4);">
     <br>
     <div>
-        <div class="d-flex justify-content-center align-align-items-center">
-            <iframe src="./assets/files/BOLETIN_INFORMATIVO_2022.pdf" width="100%" height="720" frameborder="0"></iframe>
-        </div>
-        <div>&nbsp;</div>
-        <div>BOLET&Iacute;N INFORMATIVO 2023</div>
-
+        <div style="text-align: center;"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcolegiomariagoretticomas%2Fposts%2Fpfbid0zvPj9U9G6d3bKDiW49YJCybTzGa9qtTCvJCj7r17gJyuDAhqdhNRSzFBCgw75y1Fl&amp;show_text=true&amp;width=500" width="500" height="609" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 
     </div>
 </div>

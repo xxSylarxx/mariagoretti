@@ -431,22 +431,19 @@
                             <a href="view3.php?id=2">
                                 <div class="card shadow-sm h-100" style="background: rgb(248, 248, 248);">
                                     <span class="news">Noticias</span>
-                                    <img src="./assets/img/galeria/noticia1.jpg" width="100%" height="300">
+                                    <img src="./assets/img/web/ultimas_vacantes.jpg" width="200%" height="300">
 
                                     <div class="card-body">
 
-                                        <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color11);">Alimentación Saludable</h5>
+                                        <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color11);">Últimas vacantes</h5>
 
-                                        <div class="detalle">
-                                            En el colegio Alexander Fleming, incentivamos las buenas prácticas de “Alimentación Saludable”; es por eso que el día de hoy nuestras maestras del nivel inicial hacen entender la importancia de una alimentación saludable a través de la animación.
-                                        </div>
 
                                     </div>
 
                                     <div class="card-footer text-info" style="background: transparent; font-size: 16px;">
                                         <i class="fas fa-calendar-alt" aria-hidden="true"></i>
 
-                                        <span class="ms-2">17-10-2022</span>
+                                        <span class="ms-2">4-03-2025</span>
 
                                     </div>
 

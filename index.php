@@ -487,7 +487,7 @@
                 <p style="font-weight:bold;">Director</p>
             </div>
             <div class="col-lg-6 my-2">
-                <center><img id="imageborder" src="./assets/img/fotos/director.jpg" class="img-fluid" width="60%" alt=""></center>
+                <center><img id="imageborder" src="./assets/img/galeria/directora_maria_rogetti.png" class="img-fluid" width="60%" alt=""></center>
             </div>
         </div>
     </section>
@@ -501,31 +501,31 @@
         <div class="row pt-1">
             <div class="col-md-4 my-2">
                 <div class="card card-8 stacked--down-right" style="border: 0;">
-                    <img src="./assets/img/fotos/portada_inicial.jpg" width="100%" height="300" style="border-radius: 10px; object-fit: cover;">
+                    <img src="./assets/img/web/propuesta_inicial.jpg" width="100%" height="300" style="border-radius: 10px; object-fit: cover;">
                 </div>
                 <br>
-                <p style="padding:0px 15px 0px 15px;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;text-align: justify;">En nivel Inicial se imparte una educación integral basada
-                En el nivel inicial, el enfoque principal es el desarrollo integral del niño, atendiendo a sus necesidades físicas, cognitivas, socioemocionales y lingüísticas. A través de juegos, canciones, actividades de motricidad fina y gruesa, exploración sensorial, interacción social, fomento del lenguaje y desarrollo de la autonomía, los niños aprenden a explorar el mundo que les rodea, a comunicarse, a relacionarse con otros y a desarrollar habilidades básicas para su futuro aprendizaje.</p>
+                <!-- <p style="padding:0px 15px 0px 15px;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;text-align: justify;">En nivel Inicial se imparte una educación integral basada
+                En el nivel inicial, el enfoque principal es el desarrollo integral del niño, atendiendo a sus necesidades físicas, cognitivas, socioemocionales y lingüísticas. A través de juegos, canciones, actividades de motricidad fina y gruesa, exploración sensorial, interacción social, fomento del lenguaje y desarrollo de la autonomía, los niños aprenden a explorar el mundo que les rodea, a comunicarse, a relacionarse con otros y a desarrollar habilidades básicas para su futuro aprendizaje.</p> -->
                 <div class="text-center">
                     <a class="btn btn-warning" href="./inicial.php">Inicial</a>
                 </div>
             </div>
             <div class="col-md-4 my-2">
                 <div class="card card-8 stacked--down-right" style="border: 0;">
-                    <img src="./assets/img/fotos/portada_primaria.jpg" width="100%" height="300" style="border-radius: 10px; object-fit: cover;">
+                    <img src="./assets/img/web/propuesta_primaria.jpg" width="100%" height="300" style="border-radius: 10px; object-fit: cover;">
                 </div>
                 <br>
-                <p style="padding:0px 15px 0px 15px;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;text-align: justify;">En el nivel primario, se fortalece el aprendizaje de las habilidades básicas de lectura, escritura, matemática, desarrollo social y ciencias naturales. Se promueve el desarrollo del pensamiento crítico, la creatividad y el razonamiento lógico a través de actividades como la lectura, escritura, resolución de problemas matemáticos, experimentos científicos, trabajos en grupo, proyectos interdisciplinarios, fomento de la participación ciudadana y el respeto por la diversidad. </p>
+                <!-- <p style="padding:0px 15px 0px 15px;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;text-align: justify;">En el nivel primario, se fortalece el aprendizaje de las habilidades básicas de lectura, escritura, matemática, desarrollo social y ciencias naturales. Se promueve el desarrollo del pensamiento crítico, la creatividad y el razonamiento lógico a través de actividades como la lectura, escritura, resolución de problemas matemáticos, experimentos científicos, trabajos en grupo, proyectos interdisciplinarios, fomento de la participación ciudadana y el respeto por la diversidad. </p> -->
                 <div class="text-center">
                     <a class="btn btn-warning" href="./primaria.php">Primaria</a>
                 </div>
             </div>
             <div class="col-md-4 my-2">
                 <div class="card card-8 stacked--down-right" style="border: 0;">
-                    <img src="./assets/img/fotos/portada_secundaria.jpg" width="100%" height="300" style="border-radius: 10px; object-fit: cover;">
+                    <img src="./assets/img/web/propuesta_sec.jpg" width="100%" height="300" style="border-radius: 10px; object-fit: cover;">
                 </div>
                 <br>
-                <p style="padding:0px 15px 0px 15px;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;text-align: justify;">En el nivel secundario, se profundiza en las áreas del conocimiento, promoviendo la especialización en áreas de interés, el desarrollo del pensamiento crítico, la investigación y la formación integral del estudiante.</p>
+                <!-- <p style="padding:0px 15px 0px 15px;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;overflow: hidden;text-align: justify;">En el nivel secundario, se profundiza en las áreas del conocimiento, promoviendo la especialización en áreas de interés, el desarrollo del pensamiento crítico, la investigación y la formación integral del estudiante.</p> -->
                 <div class="text-center">
                     <a class="btn btn-warning" href="./secundaria.php">Secundaria</a>
                 </div>
@@ -551,15 +551,15 @@
                 <div class="col-md-4 px-3 my-3">
                     <a href="view.php?id=4">
                         <div class="card shadow-sm h-100" style="background: rgb(248, 248, 248);">
-                            <span class="news">Comunicados</span>
-                            <img src="./assets/img/galeria/portada_boletin2023.jpg" width="100%" height="300">
+                            <span class="news">Noticias</span>
+                            <img src="./assets/img/web/noticia_rogetti_1.jpg" width="100%" height="300">
 
                             <div class="card-body">
 
-                                <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color9);">Boletín Informativo 2023</h5>
+                                <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color9);">Bienvenidos al inicio de clases 2025</h5>
 
                                 <div class="detalle">
-                                    Boletín Informativo 2023
+                                    Inicio de clases 2025
                                 </div>
 
                             </div>
@@ -567,7 +567,7 @@
                             <div class="card-footer text-info" style="background: transparent; font-size: 16px;">
                                 <i class="fas fa-calendar-alt" aria-hidden="true"></i>
 
-                                <span class="ms-2">18-11-2022</span>
+                                <span class="ms-2">10-03-2025</span>
 
                             </div>
 
@@ -577,16 +577,16 @@
                 <div class="col-md-4 px-3 my-3">
                     <a href="view.php?id=1">
                         <div class="card shadow-sm h-100" style="background: rgb(248, 248, 248);">
-                            <span class="news">Comunicados</span>
-                            <img src="./assets/img/galeria/comunicado1.jpg" width="100%" height="300">
+                            <span class="news">Noticias</span>
+                            <img src="./assets/img/web/dia_mujer.jpg" width="100%" height="300">
 
                             <div class="card-body">
 
-                                <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color9);">Bienvenidos al IV Bimestre</h5>
+                                <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color9);">Feliz día de la Mujer</h5>
 
                                 <div class="detalle">
 
-                                    Bienvenidos al IV Bimestre.
+                                    Celebramos el día de la mujer.
                                 </div>
 
                             </div>
@@ -594,7 +594,7 @@
                             <div class="card-footer text-info" style="background: transparent; font-size: 16px;">
                                 <i class="fas fa-calendar-alt" aria-hidden="true"></i>
 
-                                <span class="ms-2">17-10-2022</span>
+                                <span class="ms-2">08-03-2025</span>
 
                             </div>
 
@@ -605,22 +605,18 @@
                     <a href="view3.php?id=2">
                         <div class="card shadow-sm h-100" style="background: rgb(248, 248, 248);">
                             <span class="news">Noticias</span>
-                            <img src="./assets/img/galeria/noticia1.jpg" width="100%" height="300">
+                            <img src="./assets/img/web/ultimas_vacantes.jpg" width="100%" height="300">
 
                             <div class="card-body">
 
-                                <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color9);">Alimentación Saludable</h5>
-
-                                <div class="detalle">
-                                    En el colegio Alexander Fleming, incentivamos las buenas prácticas de “Alimentación Saludable”; es por eso que el día de hoy nuestras maestras del nivel inicial hacen entender la importancia de una alimentación saludable a través de la animación.
-                                </div>
+                                <h5 class="fw-bold text-uppercase" style="font-size: 18px;color:var(--color9);">Últimas vacantes 2025</h5>
 
                             </div>
 
                             <div class="card-footer text-info" style="background: transparent; font-size: 16px;">
                                 <i class="fas fa-calendar-alt" aria-hidden="true"></i>
 
-                                <span class="ms-2">17-10-2022</span>
+                                <span class="ms-2">04-03-2025</span>
 
                             </div>
 
@@ -659,81 +655,25 @@
     </section>
 
     <br><br><br>
-    <section id="reconocimientos">
-        <div class="container">
-            <div class="row mb-4">
-                <div class="col text-start">
-                    <h1><span>RECONOCIMIENTOS</span></h1>
-                </div>
-            </div>
-            <div class="row d-flex justify-content-around">
-                <div class="col-md-4 my-4 px-4">
-                    <div class="card border-0 shadow h-100">
-                        <div class="message">
-                            <a href="" data-bs-toggle="modal" data-bs-target="#modalaviso1" target="_blank" class="text-white">VER MÁS &nbsp; <i class="fas fa-arrow-alt-circle-right"></i></a>
-                        </div>
-                        <img src="./assets/img/fotos/reconocimiento1.jpg" class="rounded" width="100%" height="370" style="object-fit:cover;">
-                    </div>
-                </div>
-                <div class="col-md-4 my-4 px-4">
-                    <div class="card border-0 shadow h-100">
-                        <div class="message">
-                            <a href="" data-bs-toggle="modal" data-bs-target="#modalaviso2" target="_blank" class="text-white">VER MÁS &nbsp; <i class="fas fa-arrow-alt-circle-right"></i></a>
-                        </div>
-                        <img src="./assets/img/fotos/reconocimiento2.jpg" class="rounded" width="100%" height="370">
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <div class="modal fade" id="modalaviso1" tabindex="-1" aria-labelledby="modalVideoLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg modal-dialog-centered">
-                <div class="modal-content">
-
-                    <div class="modal-body">
-                        <center><img src="./assets/img/fotos/reconocimiento1.jpg" class="rounded" width="100%"></center>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="modal fade" id="modalaviso2" tabindex="-1" aria-labelledby="modalVideoLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg modal-dialog-centered">
-                <div class="modal-content">
-
-                    <div class="modal-body">
-                        <img src="./assets/img/fotos/reconocimiento2.jpg" class="rounded" width="100%">
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <br><br><br>
+    
     <div class="w-100" style="padding-top: 4%; padding-bottom: 2%;">
         <div class="container">
             <div class="row">
                 <div class="col-xl h-100 col-sm text-center my-auto">
-                    <h1><span>CONVENIOS</span></h1>
+                    <h1><span>RECONOCIMEINTOS Y CONVENIOS</span></h1>
                     <p id="p-slider-reconocimientos">Con el fin de brindar mayores beneficios y facilidades,
                         contamos con diversos convenios exclusivos para nuestros estudiantes.</p>
                 </div>
             </div>
             <div class="row owl-carousel mx-0" id="owl-one">
-                <div class="col  justify-content-center align-content-center">
-                    <img src="./assets/img/fotos/universidad.png">
+                <div class="col  d-flex justify-content-center align-content-center">
+                    <img src="./assets/img/icons/convenio_cubicol.png">
                 </div>
                 <div class="col justify-content-center align-content-center">
-                    <img src="./assets/img/fotos/ucsm.png">
+                    <img src="./assets/img/icons/convenio_infopucp.png">
                 </div>
                 <div class="col justify-content-center align-content-center">
-                    <img src="./assets/img/fotos/office365.png">
-                </div>
-                <div class="col justify-content-center align-content-center">
-                    <img src="./assets/img/fotos/zoom.png">
-                </div>
-                <div class="col justify-content-center align-content-center">
-                    <img src="./assets/img/fotos/tinkercad.png">
+                    <img src="./assets/img/icons/convenio_junior.png">
                 </div>
             </div>
         </div>

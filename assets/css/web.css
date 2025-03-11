@@ -74,7 +74,7 @@ h1,h2, h3, h4 {
 
 #header nav.navbar {
     padding: 14px 7%;
-    background: transparent;
+    background-color: #7e0d0b   ;
 }
 
 #header a.nav-link {

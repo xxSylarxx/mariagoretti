@@ -183,8 +183,8 @@
     <section class="container" id="valores">
         <div class="row justify-content-center">
             <div class="col-lg-6 p-0">
-                <div class="flip" style="background-color: var(--color3);">
-                    <div class="card" style="background-color: var(--color3);">
+                <div class="flip" style="background-color: var(--color1);">
+                    <div class="card" style="background-color: var(--color1);">
                         <div class="front">
                             <span class="fs-1"><i class="fas fa-globe"></i></span>
                             <span class="fw-bold" style="background-color: var(--12);">Misión</span>

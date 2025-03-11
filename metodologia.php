@@ -183,6 +183,7 @@
             </div>
         </div>
     </section>
+    <br>
     <section class="container div-metodologia" id="metodologia2">
         <div class="row justify-content-center ">
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
@@ -212,6 +213,7 @@
             </div>
         </div>
     </section>
+    <br>
     <section class="container div-metodologia" id="metodologia3">
         <div class="row justify-content-center">
             <div class="col-md-6 px-lg-4">
@@ -239,8 +241,7 @@
 
         </div>
     </section>
-    <br><br><br>
-    <br><br><br>
+    <br><br>
 
     <?php include_once 'includes/footer.php' ?>
 

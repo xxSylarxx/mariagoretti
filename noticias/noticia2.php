@@ -1,19 +1,12 @@
 <div>
 
 
-    <p style="color: black;"> <span class="mr-3"> <i class="fas fa-calendar-alt" aria-hidden="true"></i></span> 17-10-2022</p>
+    <p style="color: black;"> <span class="mr-3"> <i class="fas fa-calendar-alt" aria-hidden="true"></i></span> 04-03-2025</p>
 
-    <h3 class="text-uppercase" style="color: var(--color1);">Alimentación Saludable</h3>
+    <h3 class="text-uppercase" style="color: var(--color1);">Últimas Vacantes 2025</h3>
     <hr style="background-color: var(--color4);">
     <br>
     <div>
-        <div class="d-flex justify-content-center align-align-items-center">
-            <img src="./assets/img/galeria/noticia1.jpg" width="90%" height="40%" alt="">
-        </div>
-        <br>
-        <p>
-            En el colegio Alexander Fleming, incentivamos  las buenas prácticas de “Alimentación Saludable”; es por eso que el día de hoy nuestras maestras del nivel inicial hacen entender la importancia de una alimentación saludable a través de la animación
-        </p>
-
+    <div style="text-align: center;"><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcolegiomariagoretticomas%2Fposts%2Fpfbid02ewnHW9G5bJMkgD2EizHuZofos3tUeuCJjcTsARPqb3rt3DNn4XhEK9dSDPFmHjMfl&amp;show_text=true&amp;width=500" width="500" height="609" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
     </div>
 </div>

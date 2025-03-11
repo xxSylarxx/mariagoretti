@@ -356,7 +356,7 @@
                 </div>
             </div>
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/img-propuesta_metodologia1.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/img_multimedia.jpg" class="" width="100%">
             </div>
         </div>
     </section>
@@ -403,7 +403,7 @@
                 </div>
             </div>
             <div class="col-md-6 px-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/fotos/robotica.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/.jpg" class="" width="100%">
             </div>
 
 
@@ -412,7 +412,7 @@
     <section class="container div-servicios" id="servicios4">
         <div class="row justify-content-center ">
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/img-propuesta_metodologia2.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/img-propuesta_metodologia1.jpg" class="" width="100%">
             </div>
             <div class="col-md-6 px-4 lg-0">
                 <p><b>Aulas de Multimedia:</b> Las aulas están equipadas con tecnología avanzada para hacer que el proceso de enseñanza-aprendizaje sea más dinámico e interactivo y así brindar a los estudiantes una experiencia de aprendizaje inmersiva e innovadora mediante el uso de herramientas tecnológicas.
@@ -472,8 +472,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 px-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/fotos/robotica.jpg" class="" width="100%">
+            <div class="col-md-6 px-4 d-flex justify-content-center my-auto">
+                <img id="imageborder" src="./assets/img/web/.jpg" class="" width="100%">
             </div>
 
 
@@ -482,7 +482,7 @@
     <section class="container div-servicios" id="servicios6">
         <div class="row justify-content-center ">
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/img-propuesta_metodologia2.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/.jpg" class="" width="100%">
             </div>
             <div class="col-md-6 px-4 lg-0">
                 <p><b>Orientación Educativa y Psicopedagógica:</b> Este servicio está diseñado para acompañar principalmente a los estudiantes en su desarrollo personal, emocional y académico, brindando apoyo en diferentes áreas, garantizando el bienestar general de los mismos.

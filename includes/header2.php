@@ -62,7 +62,7 @@ switch ($pagina) {
     </div> -->
     <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand animate__animated animate__zoomIn" href="index.php">
-            <img src="./assets/img/icons/logo2.png" id="logotipo">
+            <img src="./assets/img/icons/logo_blanco.png" id="logotipo">
         </a>
         <button class="navbar-toggler py-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span><i class="fas fa-bars"></i></span>
