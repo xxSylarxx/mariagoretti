@@ -1,6 +1,6 @@
 <style>
     #footer {
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .8)), url("./assets/img/fotos/patio.jpg");
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .8)), url("./assets/img/banner/footer.jpg");
         background-size: 100%;
         background-position: center;
         color: white;
@@ -14,7 +14,7 @@
         opacity: 0.8;
         cursor: pointer;
         z-index: 100;
-        background: #333333;
+        background: #333333; 
         width: 50px;
         height: 50px;
         /* border-radius: 50%; */
@@ -300,6 +300,12 @@
                     <a href="https://maps.app.goo.gl/9thASXs5K5pRVZ6t6" target="_blank" style="color:white;">
                         <span style="width: 10px; text-align: center;"><i class="fas fa-map-marker-alt"></i></span>
                         <span class="ms-4">Mza D1 Lt 19 Urb El Alamo – Comas </span>
+                    </a>
+                </div>
+                <div class="d-flex text-white my-3" style="align-items: center;">
+                    <a href="https://maps.app.goo.gl/9thASXs5K5pRVZ6t6" target="_blank" style="color:white;">
+                        <span style="width: 10px; text-align: center;"><i class="fas fa-map-marker-alt"></i></span>
+                        <span class="ms-4">MZ C Lt 17 - 18 El Álamo - Comas</span>
                     </a>
                 </div>
                 <div class="d-flex text-white my-3" style="align-items: center;">

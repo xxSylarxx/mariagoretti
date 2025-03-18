@@ -62,10 +62,10 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/infra7.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/infraestructura_banner.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            background-position: center;
+            background-position: center 45%;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -374,9 +374,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="row py-3">
+                    <!-- <div class="row py-3">
                         <h2>Listado de Ambientes con Descripción</h2>
-                    </div>
+                    </div> -->
                     <div class="row py-3">
                         <div class="col-lg-auto">
                             <div class="icon-container">
@@ -424,9 +424,9 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="row py-3">
+                    <!-- <div class="row py-3">
                         <h2>Además ...</h2>
-                    </div>
+                    </div> -->
 
                     <div class="row py-3">
                         <div class="col-lg-auto">

@@ -39,13 +39,19 @@ switch ($pagina) {
 }
 ?>
 <style>
-    @media only screen and (max-width: 450px) {
-    
-    .navbar-light .navbar-toggler{
-        color:white;
-        border-color:white;
+    .navbar-light .navbar-toggler {
+        color: rgba(0, 0, 0, 0.55);
+        border-color: var(--color1);
+        background: var(--color1) !important;
     }
-}
+
+    @media only screen and (max-width: 450px) {
+
+        .navbar-light .navbar-toggler {
+            color: white;
+            border-color: white;
+        }
+    }
 </style>
 <div id="header-top"></div>
 <header class="fixed-top" id="header" style="background-color:var(--color3);">
@@ -60,7 +66,7 @@ switch ($pagina) {
             </a>
         </div>
     </div> -->
-    <nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #7e0d0b;">
         <a class="navbar-brand animate__animated animate__zoomIn" href="index.php">
             <img src="./assets/img/icons/logo_blanco.png" id="logotipo">
         </a>
@@ -79,7 +85,7 @@ switch ($pagina) {
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="./somos.php">Quienes Somos</a></li>
                         <!-- <li><a class="dropdown-item" href="./filosofia.php">Nuestra Filosofía</a></li> -->
-                       <!--  <li><a class="dropdown-item" href="./assets/files/reglamento_interno.pdf" target="_blank">Reglamento</a></li> -->
+                        <!--  <li><a class="dropdown-item" href="./assets/files/reglamento_interno.pdf" target="_blank">Reglamento</a></li> -->
                         <li><a class="dropdown-item" href="./infraestructura.php">Infraestructura</a></li>
                     </ul>
                 </li>
@@ -92,7 +98,7 @@ switch ($pagina) {
                         <!-- <li><a class="dropdown-item" href="./perfiles.php">Perfiles</a></li> -->
                         <!-- <li><a class="dropdown-item" href="./distancia.php">Educación a distancia</a></li> -->
                         <li><a class="dropdown-item" href="./servicios.php">Servicios</a></li>
-                        <li><a class="dropdown-item" href="./talleres.php">Talleres</a></li>
+                        <!-- <li><a class="dropdown-item" href="./talleres.php">Talleres</a></li> -->
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -110,8 +116,8 @@ switch ($pagina) {
                         Novedades <i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="./documentos.php">Documentos</a></li>
-                        <li><a class="dropdown-item" href="./eventos.php">Eventos</a></li>
+                        <!-- <li><a class="dropdown-item" href="./documentos.php">Documentos</a></li> -->
+                        <!--  <li><a class="dropdown-item" href="./eventos.php">Eventos</a></li> -->
                         <li><a class="dropdown-item" href="./noticias.php">Noticias</a></li>
                     </ul>
                 </li>

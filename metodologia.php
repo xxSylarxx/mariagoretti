@@ -40,7 +40,7 @@
         .course-list {
             list-style: none;
             padding: 0;
-            max-width: 500px;
+            /* max-width: 500px; */
             margin: 0 auto;
         }
 
@@ -51,10 +51,10 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/portada_general_interna.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/banner_metodologia.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            /*   background-position: center; */
+              background-position: center 30%;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -112,10 +112,12 @@
             margin-left: auto;
             margin-right: auto;
         }
+
         .div-metodologia {
             padding-top: 2rem;
             padding-bottom: 2rem;
         }
+
         .div-metodologia p {
             text-align: justify;
         }
@@ -187,7 +189,7 @@
     <section class="container div-metodologia" id="metodologia2">
         <div class="row justify-content-center ">
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/img-propuesta_metodologia2.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/img_met_relig.jpg" class="" width="100%">
             </div>
             <div class="col-md-6 px-4 lg-0">
                 <p><b>Desarrollo de Valores y Habilidades Emocionales:</b> Nuestro modelo educativo considera que el desarrollo personal y emocional es tan importante como el académico.
@@ -217,7 +219,7 @@
     <section class="container div-metodologia" id="metodologia3">
         <div class="row justify-content-center">
             <div class="col-md-6 px-lg-4">
-                 <p><b>Aprendizaje significativo: </b> El aprendizaje significativo en nuestra Institución permite que nuestros estudiantes relacionen la nueva información con conocimientos previos, logrando una comprensión más profunda y aplicable a su vida cotidiana.</p>
+                <p><b>Aprendizaje significativo: </b> El aprendizaje significativo en nuestra Institución permite que nuestros estudiantes relacionen la nueva información con conocimientos previos, logrando una comprensión más profunda y aplicable a su vida cotidiana.</p>
                 <div class="row d-flex justify-content-center align-items-center ">
                     <div class="row d-flex justify-content-between align-items-center">
                         <ul class="course-list">
@@ -235,7 +237,7 @@
                 </div>
             </div>
             <div class="col-md-6 px-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/fotos/robotica.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/computadoras.jpg" class="" width="100%">
             </div>
 
 

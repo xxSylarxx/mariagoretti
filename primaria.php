@@ -51,7 +51,7 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, .2)), url("./assets/img/fotos/primaria5.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, .2)), url("./assets/img/web/banner_primaria.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
             background-position: center;
@@ -235,7 +235,7 @@
             display: inline-block;
             position: absolute;
             border-radius: 50%;
-            border: 3px solid var(--color3);
+            border: 3px solid var(--color4);
             left: 19px;
             width: 23px;
             height: 23px;
@@ -345,7 +345,7 @@
     <section class="container" id="metodologia">
         <div id="visitas" class="row justify-content-between align-items-center">
             <div class="col-md-6 px-lg-4">
-                <h2 style="color:var(--color1);font-weight:800;text-align:center;">NIVEL PRIMARIA</h2>
+                <h2 style="color:var(--color1);font-weight:800;">NIVEL PRIMARIA</h2>
                 <br>
                 <p>En este nivel se busca consolidar el aprendizaje a través de un enfoque activo y participativo, en el que los estudiantes son protagonistas de su propio proceso educativo.</p>
                 <b> Objetivo:</b>
@@ -366,8 +366,8 @@
             <div class="container">
                 <center><span style="font-weight:bold;font-size:1.5rem;">Metodología: </span></center>
                 <br>
-                <div class="row justify-content-start">
-                    <div class="col-md mb-4 text-justify">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-6 px-0 ">
                         <br>
                         <div class="accordion" id="accordionExample">
                             <ul class="timeline">
@@ -393,11 +393,11 @@
                     <br>
                     <br>
 
-                    <div class="col-md-6 my-auto" style="display: flex;align-items:end;">
-                        <img id="imageborder" src="./assets/img/web/prim_metodologia.jpg" class="" width="100%">
+                    <div class="col-md-6 px-lg-4" style="display: flex;align-items:end;">
+                        <img id="imageborder" src="./assets/img/web/primaria_met.jpg" class="" width="100%">
                     </div>
                 </div>
-                <div class="row d-flex justify-content-center ">
+                <div class="row d-flex justify-content-center py-5 ">
                     <div class="row d-flex justify-content-around">
                         <div class="col-lg-3 pt-0 px-0">
                             <ul class="course-list">

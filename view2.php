@@ -202,7 +202,7 @@
     </div>
     <br>
     <br>
-    <center><a href="./eventos.php"><button class="btn btn-warning text-white"><i class="fas fa-chevron-circle-left"></i>&nbsp;&nbsp;Regresar </button></a></center>
+    <center><a href="./noticias.php"><button class="btn btn-warning text-white"><i class="fas fa-chevron-circle-left"></i>&nbsp;&nbsp;Regresar </button></a></center>
 
     <br><br><br>
 

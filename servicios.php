@@ -40,7 +40,7 @@
         .course-list {
             list-style: none;
             padding: 0;
-            max-width: 500px;
+            /* max-width: 500px; */
             margin: 0 auto;
         }
 
@@ -51,10 +51,10 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/portada_general_interna.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/banner_servicios.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            /*   background-position: center; */
+            background-position: center;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -278,14 +278,19 @@
 
             background-color: var(--color1);
         }
+
         .div-servicios {
             padding-top: 2rem;
             padding-bottom: 2rem;
         }
+
         .div-servicios p {
             text-align: justify;
         }
 
+        ol li::marker {
+            font-weight: bold;
+        }
 
 
         @media only screen and (max-width: 650px) {
@@ -327,8 +332,8 @@
     </section>
     <section class="container div-servicios" id="servicios">
         <div class="row justify-content-center align-items-center">
-            <div class="col-md-6 px-lg-4">
-                <h1 class="mb-3" style="color:var(--color1);font-weight:bold;text-align:start;">Servicios</h1>
+            <div class="col-md-6 px-0">
+                <!-- <h1 class="mb-3" style="color:var(--color1);font-weight:bold;text-align:start;">Servicios</h1> -->
                 <p>
                     <b>Laboratorio de Informática: </b>
                     Es un espacio equipado con computadoras de última generación, acceso a internet de alta velocidad y software especializado para apoyar el desarrollo de habilidades digitales en los estudiantes, fomentando el pensamiento lógico y el uso de la tecnología como una herramienta para el aprendizaje y la innovación.
@@ -337,7 +342,7 @@
                     <div class="row d-flex justify-content-between align-items-centers">
                         <ul class="course-list">
                             <li class="course-item my-2">
-                                <i class="fas fa-check-circle"></i>	Equipos modernos con programas actualizados.
+                                <i class="fas fa-check-circle"></i> Equipos modernos con programas actualizados.
                             </li>
                             <li class="course-item my-2">
                                 <i class="fas fa-check-circle"></i>Acceso a internet seguro y controlado.
@@ -375,7 +380,7 @@
                                 <i class="fas fa-check-circle"></i>Reactivos y materiales para experimentos en Biología, Química y Física.
                             </li>
                             <li class="course-item my-2">
-                                <i class="fas fa-check-circle"></i>Microscopios y herramientas de medición científica.         
+                                <i class="fas fa-check-circle"></i>Microscopios y herramientas de medición científica.
                         </ul>
                     </div>
                 </div>
@@ -385,7 +390,7 @@
     <section class="container div-servicios" id="servicios3">
         <div class="row justify-content-center">
             <div class="col-md-6 px-lg-4">
-                 <p><b>Laboratorio de Inglés: </b> Este espacio está diseñado para reforzar el aprendizaje del idioma inglés a través de tecnología y métodos interactivos, y así facilitar el aprendizaje del idioma mediante el uso de herramientas digitales que potencien la práctica y el dominio del idioma.</p>
+                <p><b>Laboratorio de Inglés: </b> Este espacio está diseñado para reforzar el aprendizaje del idioma inglés a través de tecnología y métodos interactivos, y así facilitar el aprendizaje del idioma mediante el uso de herramientas digitales que potencien la práctica y el dominio del idioma.</p>
                 <div class="row d-flex justify-content-center align-items-center ">
                     <div class="row d-flex justify-content-between align-items-center">
                         <ul class="course-list">
@@ -403,7 +408,7 @@
                 </div>
             </div>
             <div class="col-md-6 px-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/lab_ingles.jpg" class="" width="100%">
             </div>
 
 
@@ -412,7 +417,7 @@
     <section class="container div-servicios" id="servicios4">
         <div class="row justify-content-center ">
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/img-propuesta_metodologia1.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/img_multimedia.jpg" class="" width="100%">
             </div>
             <div class="col-md-6 px-4 lg-0">
                 <p><b>Aulas de Multimedia:</b> Las aulas están equipadas con tecnología avanzada para hacer que el proceso de enseñanza-aprendizaje sea más dinámico e interactivo y así brindar a los estudiantes una experiencia de aprendizaje inmersiva e innovadora mediante el uso de herramientas tecnológicas.
@@ -440,40 +445,51 @@
     <section class="container div-servicios" id="servicios5">
         <div class="row justify-content-center">
             <div class="col-md-6 px-lg-4">
-                 <p><b>Plataforma Virtual: Cubicol – Paideia – Leo </b> El colegio cuenta con plataformas virtuales que facilitan la comunicación entre docentes, estudiantes y familias, ofreciendo un entorno de aprendizaje digital, integrando la tecnología en la educación para mejorar la comunicación y el acceso a los recursos de aprendizaje.</p>
+                <p><b>Plataforma Virtual: Cubicol – Paideia – Leo </b> El colegio cuenta con plataformas virtuales que facilitan la comunicación entre docentes, estudiantes y familias, ofreciendo un entorno de aprendizaje digital, integrando la tecnología en la educación para mejorar la comunicación y el acceso a los recursos de aprendizaje.</p>
                 <div class="row d-flex justify-content-center align-items-center ">
                     <div class="row d-flex justify-content-between align-items-center">
-                        <ul class="course-list">
-                            <li class="course-item my-2">
-                                <i class="fas fa-check-circle"></i>Cubicol
-                                <ol class="">
-                                    <li class=" course-item my-2">Plataforma de gestión académica con acceso a notas, asistencia y comunicación directa con docentes</li>
+
+
+                        <!-- <li class="course-item my-2"> -->
+                        <ol>
+                            <li><b>Cubicol</b>
+                                <ul class="course-list">
+                                    <li class=" course-item my-2"><i class="fas fa-check-circle"></i>Plataforma de gestión académica con acceso a notas, asistencia y comunicación directa con docentes</li>
                                     <li class=" course-item my-2">Recursos educativos y materiales de estudio en línea.</li>
                                     <li class=" course-item my-2">Calendario de actividades escolares.</li>
-                                </ol>
+                                </ul>
                             </li>
-                            <li class="course-item my-2">
-                                <i class="fas fa-check-circle"></i>Paideia
-                                <ol class="">
-                                    <li class=" course-item my-2">Herramienta pedagógica que fomenta el aprendizaje autónomo y colaborativo.</li>
-                                    <li class=" course-item my-2">Espacios de discusión y foros interactivos.</li>
-                                    <li class=" course-item my-2">Evaluaciones en línea y retroalimentación personalizada.</li>
-                                </ol>
+                            <!-- <li class="course-item my-2"> -->
+                            <li> <b>Paidea</b>
+                                <ul class="course-list">
+                                    <li class=" course-item my-2"><i class="fas fa-check-circle"></i>Herramienta pedagógica que fomenta el aprendizaje autónomo y colaborativo.</li>
+                                    <li class=" course-item my-2"><i class="fas fa-check-circle"></i>Espacios de discusión y foros interactivos.</li>
+                                    <li class=" course-item my-2"><i class="fas fa-check-circle"></i>Evaluaciones en línea y retroalimentación personalizada.</li>
+                                </ul>
                             </li>
-                            <li class="course-item my-2">
-                                <i class="fas fa-check-circle"></i>Leo
-                                <ol class="">
-                                    <li class=" course-item my-2"> Plataforma enfocada en el desarrollo de habilidades lectoras. </li>
-                                    <li class=" course-item my-2">Actividades interactivas para mejorar la comprensión lectora.</li>
-                                    
-                                </ol>
+                            <!-- <li class="course-item my-2"> -->
+                            <li><b>Leo</b>
+                                <ul class="course-list">
+                                    <li class=" course-item my-2"><i class="fas fa-check-circle"></i> Plataforma enfocada en el desarrollo de habilidades lectoras. </li>
+                                    <li class=" course-item my-2"><i class="fas fa-check-circle"></i>Actividades interactivas para mejorar la comprensión lectora.</li>
+                                </ul>
                             </li>
-                        </ul>
+
+
+                        </ol>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 px-4 d-flex justify-content-center my-auto">
-                <img id="imageborder" src="./assets/img/web/.jpg" class="" width="100%">
+            <div class="col-md-6 px-4  ">
+                <div class="d-flex justify-content-center align-items-center">
+                    <img src="./assets/img/icons/convenio_cubicol.png" class="" width="70%">
+                </div>
+                <div class=" d-flex justify-content-center align-items-center">
+                    <img src="./assets/img/icons/paidea.png" class="" width="70%">
+                </div>
+                <div class=" d-flex justify-content-center align-items-center">
+                    <img src="./assets/img/icons/convenio_infopucp.png" class="" width="70%">
+                </div>
             </div>
 
 
@@ -482,7 +498,7 @@
     <section class="container div-servicios" id="servicios6">
         <div class="row justify-content-center ">
             <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/web/.jpg" class="" width="100%">
+                <img id="imageborder" src="./assets/img/web/orientacion_psico.jpg" class="" width="100%">
             </div>
             <div class="col-md-6 px-4 lg-0">
                 <p><b>Orientación Educativa y Psicopedagógica:</b> Este servicio está diseñado para acompañar principalmente a los estudiantes en su desarrollo personal, emocional y académico, brindando apoyo en diferentes áreas, garantizando el bienestar general de los mismos.

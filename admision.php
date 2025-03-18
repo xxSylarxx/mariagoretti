@@ -38,10 +38,10 @@
 
     <style>
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/portada_general_interna.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/banner_metodologia.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            /*   background-position: center; */
+            background-position: center 30%;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -254,15 +254,15 @@
                     <div>Él o la postulante deberá contar con la edad requerida para el grado al que postula de acuerdo con las disposiciones del Ministerio de Educación, según detalle:</div>
                     <div>&nbsp;</div>
                     <ul>
-                        <li><strong>INICIAL 3 AÑOS: Cumplir 3 años hasta el 31 de marzo de 2025</li>
-                        <li><strong>INICIAL 4 AÑOS: Cumplir 4 años hasta el 31 de marzo de 2025</li>
-                        <li><strong>INICIAL 5 AÑOS: Cumplir 5 años hasta el 31 de marzo de 2025</li>
-                        <li><strong>PRIMER GRADO: Cumplir 6 años hasta el 31 de marzo de 2025</li>
+                        <li>INICIAL 3 AÑOS: Cumplir 3 años hasta el 31 de marzo de 2025</li>
+                        <li>INICIAL 4 AÑOS: Cumplir 4 años hasta el 31 de marzo de 2025</li>
+                        <li>INICIAL 5 AÑOS: Cumplir 5 años hasta el 31 de marzo de 2025</li>
+                        <li>PRIMER GRADO: Cumplir 6 años hasta el 31 de marzo de 2025</li>
+                        <li>Fecha de Inscripción.</li>
                     </ul>
-                    <div>&nbsp;</div>
-                    <div><strong>Ficha de inscripci&oacute;n</strong></div>
                     <br>
                     <ul>
+                        
                         <li>Comprobante de pago por derecho de matrícula.</li>
                         <li>Comprobante de pago por derecho de cuota de ingreso&nbsp;</li>
                         <li>Partida Nacimiento (Copia u original)</li>

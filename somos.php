@@ -35,8 +35,11 @@
     <?php include_once 'includes/header2.php' ?>
 
     <style>
-        <style>.bg-plomo {
+       .bg-plomo {
             background-color: #f4f5f7;
+        }
+        #valores {
+            padding-top: 5rem;
         }
 
         #valores .flip {
@@ -83,10 +86,10 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/portada_general_interna.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/banner_somos.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            /* background-position: center; */
+            background-position: center 30%;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;

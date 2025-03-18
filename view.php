@@ -179,7 +179,7 @@
                 <li class="breadcrumb-item"><a href="./" style="color:var(--color8);">Inicio</a></li>
                 <li class="breadcrumb-item"><a href="" style="color:var(--color8);">Novedades</a></li>
             </ol>
-            <h1>Comunicados</h1>
+            <h1>Noticias</h1>
         </div>
     </section>
 
@@ -202,7 +202,7 @@
     </div>
     <br>
     <br>
-    <center><a href="./comunicados.php"><button class="btn btn-warning text-white"><i class="fas fa-chevron-circle-left"></i>&nbsp;&nbsp;Regresar </button></a></center>
+    <center><a href="./noticias.php"><button class="btn btn-warning text-white"><i class="fas fa-chevron-circle-left"></i>&nbsp;&nbsp;Regresar </button></a></center>
 
     <br><br><br>
 

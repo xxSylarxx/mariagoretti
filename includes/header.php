@@ -54,6 +54,12 @@ switch ($pagina) {
         color: var(--color4) !important;
     }
 
+    .navbar-light .navbar-toggler {
+        color: rgba(0, 0, 0, 0.55);
+        border-color: white;
+        background: var(--color1) !important;
+    }
+
     @media only screen and (max-width: 450px) {
         #header nav.navbar {
             background-color: var(--color5);
@@ -110,7 +116,7 @@ switch ($pagina) {
                         <!--  <li><a class="dropdown-item" href="./perfiles.php">Perfiles</a></li> -->
                         <!--  <li><a class="dropdown-item" href="./distancia.php">Educación a distancia</a></li> -->
                         <li><a class="dropdown-item" href="./servicios.php">Servicios</a></li>
-                        <li><a class="dropdown-item" href="./talleres.php">Talleres</a></li>
+                        <!-- <li><a class="dropdown-item" href="./talleres.php">Talleres</a></li> -->
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -128,17 +134,18 @@ switch ($pagina) {
                         Novedades <i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="./documentos.php">Documentos</a></li>
-                        <li><a class="dropdown-item" href="./eventos.php">Eventos</a></li>
-                        <li><a class="dropdown-item" href="./noticias.php">Noticias</a></li>
-                    </ul>
-                </li>
-                <li class="nav-item">
+                        <<!-- li><a class="dropdown-item" href="./documentos.php">Documentos</a>
+                </li> -->
+                <!--  <li><a class="dropdown-item" href="./eventos.php">Eventos</a></li> -->
+                <li><a class="dropdown-item" href="./noticias.php">Noticias</a></li>
+            </ul>
+            </li>
+            <li class="nav-item">
 
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="<?php echo $menu_6 ?>" href="./admision.php">Admisión</a>
-                </li>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="<?php echo $menu_6 ?>" href="./admision.php">Admisión</a>
+            </li>
             </ul>
         </div>
     </nav>
@@ -157,7 +164,7 @@ switch ($pagina) {
 
             var navLinks = header.querySelectorAll("a.nav-link"); // Select all nav links
 
-            
+
         }
     });
 </script>

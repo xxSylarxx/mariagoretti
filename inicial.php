@@ -37,6 +37,47 @@
     <?php include_once 'includes/header2.php' ?>
 
     <style>
+        /* Estilo de Lista */
+        ul.timeline {
+            list-style-type: none;
+            position: relative;
+        }
+
+        ul.timeline:before {
+            content: ' ';
+            background: var(--color2);
+            display: inline-block;
+            position: absolute;
+            left: 30px;
+            width: 2px;
+            height: 95%;
+            z-index: 400;
+        }
+
+        ul.timeline>li {
+            margin: 14px 0;
+            padding-left: 20px;
+        }
+
+        ul.timeline>li:before {
+            content: ' ';
+            background: white;
+            display: inline-block;
+            position: absolute;
+            border-radius: 50%;
+            border: 4px solid var(--color4);
+            left: 15px;
+            width: 32px;
+            height: 32px;
+            z-index: 400;
+        }
+
+        @media screen and (max-width:800px) {
+            ul.timeline:before {
+                height: 94%;
+            }
+        }
+
         .course-list {
             list-style: none;
             padding: 0;
@@ -54,7 +95,7 @@
             background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/b_inicial4.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-              background-position: center;
+            background-position: center;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -230,7 +271,7 @@
             padding-left: 20px;
         }
 
-        ul.timeline>li:before {
+        ul.timeline>ol:before {
             content: ' ';
             background: white;
             display: inline-block;
@@ -325,14 +366,14 @@
                 </div>
             </div>
         </div>
-        <br>
+        <!-- <br>
         <br>
         <br>
         <center><span style="font-weight:bold;font-size:1.5rem;">Se desarrolla las siguientes capacidades: </span></center>
         <br>
         <br>
-        <br>
-        <?php include_once 'card.php' ?>
+        <br> -->
+        <!--   <//?php include_once 'card.php' ?> -->
 
     </section>
     <br>
@@ -342,7 +383,15 @@
         <div class="container">
             <center><span style="font-weight:bold;font-size:1.5rem;">Metodología: </span></center>
             <br>
+            <br>
             <div class="row justify-content-start">
+
+                <div class="col-md-6 my-auto" style="display: flex;align-items:end;">
+                    <img id="imageborder" src="./assets/img/web/b_inicial3.jpg" class="" width="100%">
+                </div>
+                <br>
+                <br>
+                <br>   
                 <div class="col-md mb-4 text-justify">
                     <br>
                     <div class="accordion" id="accordionExample">
@@ -365,15 +414,9 @@
                         </ul>
                     </div>
                 </div>
-                <br>
-                <br>
-                <br>
 
-                <div class="col-md-6 my-auto" style="display: flex;align-items:end;">
-                    <img id="imageborder" src="./assets/img/web/b_inicial3.jpg" class="" width="100%">
-                </div>
             </div>
-            <div class="row d-flex justify-content-center ">
+            <div class="row d-flex justify-content-center py-5">
                 <div class="row d-flex justify-content-around">
                     <div class="col-lg-3 pt-0 px-0">
                         <ul class="course-list">
@@ -413,7 +456,7 @@
 
     </section>
     <br><br><br>
-    <section>
+    <!-- <section>
         <div class="container">
             <div class="row">
                 <div id="otros" class="col-lg-3" style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
@@ -426,7 +469,7 @@
             </div>
         </div>
     </section>
-    <br><br><br>
+    <br><br><br> -->
     <?php include_once 'includes/footer.php' ?>
 
     <script>

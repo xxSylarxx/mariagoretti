@@ -51,12 +51,12 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/portada_secundaria.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/banner_servicios.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            background-position: center;
+            background-position: center 30%;
             color: white;
-            padding-top: 7rem;
+            padding-top: 10rem;
             padding-bottom: 4rem;
             height: 350px;
 
@@ -235,7 +235,7 @@
             display: inline-block;
             position: absolute;
             border-radius: 50%;
-            border: 3px solid var(--color3);
+            border: 3px solid var(--color4);
             left: 19px;
             width: 23px;
             height: 23px;
@@ -347,7 +347,7 @@
     <section class="container" id="metodologia">
         <div id="visitas" class="row justify-content-between align-items-center">
             <div class="col-md-6 px-lg-4">
-                <h2 style="color:var(--color1);font-weight:800;text-align:center;">NIVEL SECUNDARIA</h2>
+                <h2 style="color:var(--color1);font-weight:800;">NIVEL SECUNDARIA</h2>
                 <br>
                 <p>En secundaria, la metodología se orienta a fortalecer el pensamiento analítico y la autonomía, preparando a los estudiantes para la educación superior y el mundo laboral.
                 </p>
@@ -368,13 +368,13 @@
                 </div>
             </div>
             </div>
-            <br><br>
+            <br>
             <section id="curriculo">
                 <div class="container">
                     <center><span style="font-weight:bold;font-size:1.5rem;">Metodología: </span></center>
                     <br>
-                    <div class="row justify-content-start">
-                        <div class="col-md mb-4 text-justify">
+                    <div class="row justify-content-between align-items-center">
+                        <div class="col-md-6 px-0">
                             <br>
                             <div class="accordion" id="accordionExample">
                                 <ul class="timeline">
@@ -400,7 +400,7 @@
                         <br>
                         <br>
 
-                        <div class="col-md-6 my-auto" style="display: flex;align-items:end;">
+                        <div class="col-md-6 my-auto py-5" style="display: flex;align-items:end;">
                             <img id="imageborder" src="./assets/img/web/sec_metodologia.jpg" class="" width="100%">
                         </div>
                     </div>
@@ -443,153 +443,13 @@
                     </div>
 
             </section>
-            <!-- <div id="visitas" class="row justify-content-between align-items-center">
-
-            <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <div class="swiper mySwiper" id="imageborder">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide"><img src="./assets/img/fotos/primaria3.jpg" alt=""></div>
-                        <div class="swiper-slide"><img src="./assets/img/fotos/primaria4.jpg" alt=""></div>
-                        <div class="swiper-slide"><img src="./assets/img/fotos/primaria5.jpg" alt=""></div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-            <div class="col-md-6 px-lg-4">
-
-                <p>Durante esta etapa escolar procuramos desarrollar las
-                    capacidades de comunicación y de procesamiento crítico d
-                    e la información; la capacidad de identificación, planeamiento
-                    y resolución de los problemas; el uso adecuado del razonamiento
-                    abstracto y científico, el fortalecimiento de la voluntad y educación
-                    de la afectividad a través de la práctica de las virtudes humanas y Valores Eticos y Morales.</p>
-                <p>Logramos así, alumnos autónomos e independientes que ingresarán
-                    a la secundaria con un despierto interés por aprender y con una
-                    disciplina de estudio abocada a la auto adquisición de conocimientos.</p>
-            </div>
-        </div> -->
+            
 
         </section>
-        <!--  <div id="visitas" class="row justify-content-between align-items-center">
-
-            <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <img id="imageborder" src="./assets/img/fotos/secundaria2.jpg" class="" width="90%">
-            </div>
-            <div class="col-md-6 px-lg-4">
-                <p>
-                    A fin de que nuestros estudiantes logren competencias que los
-                    orienten en su formación: hacer críticos, creativos, responsables y
-                    solidarios; que sepan cuestionar lo que es necesario, conocedores y
-                    consientes del diario vivir, de las potencialidades y de los problemas
-                    de los mismos, de modo que contribuyan en la construcción de una Sociedad
-                    más justa y equitativa dentro de los Principios Católicos.
-
-                </p>
-                <p>Para los alumnos del 1° a 3° año tenemos una curricula,
-                    cuyo objetivo principal es brindar una formación que promueva
-                    el desarrollo integral de los alumnos basados en una metodología
-                    activa y participativa que desarrolle la práctica de valores, el
-                    desarrollo de habilidades cognitivas, la formación de actitudes personales y
-                    empresariales que les permita hacer frente a los desafíos y retos de un mundo
-                    globalizado y cambiante.</p>
-
-            </div>
-        </div>
-        <br><br>
-        <div id="visitas" class="row justify-content-between align-items-center">
-            <div class="col-md-6 px-lg-4">
-
-                <p>Para los alumnos del 4º y 5º se enfatiza la
-                    preparación para la vida universitaria. En esta
-                    línea, más que preparar para una prueba de ingreso, se busca
-                    asegurar el desarrollo de conocimientos, habilidades y actitudes
-                    para garantizar el ingreso, la transición y la permanencia exitosa en la universidad, se incidiendo en
-                    las aéreas de comunicación, razonamiento verbal, matemática, razonamiento matemático, Física,
-                    Química, Biología, Ciencias sociales entre otras.</p>
-                <p>Para cumplir con este objetivo,
-                    contamos con un sistema de alta exigencia académica.
-                    Nuestra preocupación es constante por la calidad educativa pues
-                    somos conscientes que los jóvenes deben estar preparados para afrontar
-                    con éxito el exámen de admisión de cualquier universidad del país y así
-                    lograr en un futuro una carrera profesional.</p>
-            </div>
-            <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                <div class="swiper mySwiper" id="imageborder">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide"><img src="./assets/img/fotos/secundaria3.jpg" alt=""></div>
-                        <div class="swiper-slide"><img src="./assets/img/fotos/secundaria4.jpg" alt=""></div>
-
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-        </div> -->
-
-    </section>
-    <br><br><br>
-    <!--  <br><br><br>
-    <section id="galeria">
-        <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-lg-6">
-                    <div class="hub-slider">
-                        <div class="hub-slider-slides">
-                            <ul>
-                                <li><img src="./assets/img/fotos/primaria1.jpg" class="crop shadow-sm"></li>
-                                <li><img src="./assets/img/fotos/primaria2.jpg" class="crop shadow-sm"></li>
-                                <li><img src="./assets/img/fotos/primaria3.jpg" class="crop shadow-sm"></li>
-                                <li><img src="./assets/img/fotos/primaria4.jpg" class="crop shadow-sm"></li>
-                                <li><img src="./assets/img/fotos/primaria5.jpg" class="crop shadow-sm"></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- <div class="w-100" style="padding-top: 4%; padding-bottom: 2%;">
-        <div class="container">
-            <div class="row aos-init aos-animate" data-aos="fade-up" data-aos-duration="2000">
-                <div class="col-xl h-100 col-sm text-center my-auto">
-                    <h1 style="color:var(--color1);font-weight:bold;"><span>CONVENIOS</span></h1>
-                    <p>Con el fin de brindar mayores beneficios y facilidades,
-                        contamos con diversos convenios exclusivos para nuestros estudiantes.</p>
-                </div>
-                <div class="col-5 my-auto">
-                    <div class="row">
-                        <div class="col-xl w-100 pl-0 col-sm text-center" style="height: 180px;">
-                            <div class="swiper2 mySwiper2 swiper-initialized swiper-vertical swiper-pointer-events swiper-backface-hidden">
-                                <div class="swiper-wrapper" id="swiper-wrapper-6ba5f0cc9452103c5" aria-live="off" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
-                                    <div class="swiper-slide swiper-slide-active" style="height: 300px;" role="group" aria-label="1 / 5">
-                                        <img src="./assets/img/fotos/universidad.png" style="position:relative;" width="380">
-
-                                        <p style="position:absolute;margin-top:15rem;">Convenio de cooperación interinstitucional entre
-                                            Universidad católica San Pablo y la institución educativa particular Alexander Fleming </p>
-                                    </div>
-                                    <div class="swiper-slide swiper-slide-next" style="height: 300px;" role="group" aria-label="2 / 5"><img src="./assets/img/fotos/ucsm.png" style="position:relative;" width="380">
-                                        <p style="position:absolute;margin-top:15rem;">Convenio de cooperación interinstitucional entre
-                                            Universidad Católica de Santa María y la
-                                            institución educativa particular Alexander Fleming</p>
-                                    </div>
-                                    <div class="swiper-slide" style="height: 300px;" role="group" aria-label="3 / 5"><img src="./assets/img/fotos/office365.png" width="380"></div>
-                                    <div class="swiper-slide" style="height: 300px;" role="group" aria-label="4 / 5"><img src="./assets/img/fotos/zoom.png" width="380"></div>
-                                    <div class="swiper-slide" role="group" aria-label="5 / 5" style="height: 300px;"><img src="./assets/img/fotos/tinkercad.png" width="380"></div>
-
-
-                                </div>
-                                <div class="swiper-pagination"></div>
-                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+        
+           
+    
+    
     <?php include_once 'includes/footer.php' ?>
 
     <script>

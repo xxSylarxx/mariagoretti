@@ -38,10 +38,10 @@
 
     <style>
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/fotos/noticia1.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/noticias_banner.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            /*   background-position: center; */
+              background-position: center;
             color: white;
             padding-top: 7rem;
             padding-bottom: 4rem;
@@ -427,11 +427,11 @@
                 <div class="col-lg-8">
                     <div class="row my-2" id="noticias">
 
-                        <div class="col-md-4 px-3 my-3">
+                        <div class="col-md-5 px-3 my-3">
                             <a href="view3.php?id=2">
                                 <div class="card shadow-sm h-100" style="background: rgb(248, 248, 248);">
                                     <span class="news">Noticias</span>
-                                    <img src="./assets/img/web/ultimas_vacantes.jpg" width="200%" height="300">
+                                    <img src="./assets/img/web/ultimas_vacantes.jpg" width="100%" height="300">
 
                                     <div class="card-body">
 
@@ -454,10 +454,10 @@
                 </div>
                 <div class="col-lg-3 pt-4">
                     <div class="list-group">
-                        <a class="list-group-item"><b><i class="fas fa-bars"></i>&nbsp;&nbsp; CATEGORÍAS</b></a>
-                        <a href="./documentos.php" class="list-group-item ">Documentos</a>
-                        <a href="./noticias.php" class="list-group-item active">Noticias</a>
-                        <a href="./eventos.php" class="list-group-item ">Eventos</a>
+                        <a class="#"><b><i class="fas fa-bars"></i>&nbsp;&nbsp; CATEGORÍAS</b></a>
+                        <!-- <a href="#" class="list-group-item ">Documentos</a> -->
+                        <a href="#" class="list-group-item active">Noticias</a>
+                        <!-- <a href="#" class="list-group-item ">Eventos</a> -->
 
 
                     </div>

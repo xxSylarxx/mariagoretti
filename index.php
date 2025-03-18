@@ -82,7 +82,7 @@
             justify-content: start;
             align-items: flex-end;
             height: 100%;
-            padding-bottom: 10%;
+            padding-bottom: 5%;
         }
 
         .tittle-banner1 {
@@ -178,7 +178,7 @@
 
         #lema {
             background: linear-gradient(rgba(0, 0, 0, 0.5) 100%, #ffff 10%, #ffff 50%),
-                url('./assets/img/fotos/lema.jpg');
+                url('./assets/img/web/inicio_lema.jpg');
 
             background-size: 100%;
             background-position: top;
@@ -474,20 +474,23 @@
 
     <section class="container">
         <div class="row justify-content-between">
-            <div class="col-lg-6 my-2 scroll my-auto">
-                <h1 class="mb-3">BIENVENIDOS</h1>
-                <p style="line-height: 2; text-align: justify;">Somos una institución educativa con 35 años de experiencia, dedicada a formar ciudadanos responsables, críticos y comprometidos con el mundo. Durante este tiempo, hemos construido una sólida trayectoria basada en la excelencia académica, la innovación pedagógica y el desarrollo integral de nuestros alumnos.
+            <div class="col-lg-5 my-2 my-auto">
+                <h1 class="mb-3">QUIÉNES SOMOS</h1>
+                <p style="line-height: 2; text-align: justify;">Somos una institución educativa con 36 años de experiencia, dedicada a formar ciudadanos responsables, críticos y comprometidos con el mundo. Durante este tiempo, hemos construido una sólida trayectoria basada en la excelencia académica, la innovación pedagógica y el desarrollo integral de nuestros alumnos.
                 </p>
-                <p style="line-height: 2; text-align: justify;">
+                <!-- <p style="line-height: 2; text-align: justify;">
                     Nos enorgullece ofrecer un ambiente de aprendizaje cálido y estimulante, donde cada estudiante se siente valorado, respetado y motivado a alcanzar su máximo potencial. Nuestra propuesta educativa se basa en respeto, responsabilidad, excelencia y en el desarrollo de habilidades del siglo XXI, preparando a nuestros alumnos para enfrentar los desafíos del futuro con confianza y éxito. </p>
                 <p style="line-height: 2; text-align: justify;">
                     Te invitamos a conocer más sobre nuestra institución y a formar parte de nuestra comunidad educativa.
-                </p>
-                <p style="font-weight:bold;">Dr. Director@ </p>
-                <p style="font-weight:bold;">Director</p>
+                </p> -->
+                <div class="text-center">
+                    <a class="btn btn-warning" href="./somos.php">Ver Más</a>
+                </div>
+                <!-- <p style="font-weight:bold;">Dr. Director@ </p>
+                <p style="font-weight:bold;">Director</p> -->
             </div>
             <div class="col-lg-6 my-2">
-                <center><img id="imageborder" src="./assets/img/galeria/directora_maria_rogetti.png" class="img-fluid" width="60%" alt=""></center>
+                <center><img id="imageborder" src="./assets/img/web/prim_metodologia.jpg" class="img-fluid" width="100%" alt=""></center>
             </div>
         </div>
     </section>
@@ -654,10 +657,10 @@
         </div>
     </section>
 
-    <br><br><br>
+    <br>
     
     <div class="w-100" style="padding-top: 4%; padding-bottom: 2%;">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-xl h-100 col-sm text-center my-auto">
                     <h1><span>RECONOCIMEINTOS Y CONVENIOS</span></h1>
@@ -665,6 +668,7 @@
                         contamos con diversos convenios exclusivos para nuestros estudiantes.</p>
                 </div>
             </div>
+            <br><br>    
             <div class="row owl-carousel mx-0" id="owl-one">
                 <div class="col  d-flex justify-content-center align-content-center">
                     <img src="./assets/img/icons/convenio_cubicol.png">
@@ -677,9 +681,9 @@
                 </div>
             </div>
         </div>
-        <br><br><br>
+        <br><br>
     </div>
-    <br><br><br>
+    <br>
 
 
     <?php include_once 'includes/footer.php'; ?>
