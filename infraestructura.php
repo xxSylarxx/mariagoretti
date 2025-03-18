@@ -67,9 +67,9 @@
             background-size: 100%;
             background-position: center 45%;
             color: white;
-            padding-top: 7rem;
+            padding-top: 20rem;
             padding-bottom: 4rem;
-            height: 350px;
+            height: 550px;
 
         }
 
