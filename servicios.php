@@ -54,11 +54,11 @@
             background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/banner_servicios.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
-            background-position: center;
+            background-position: center 30%;
             color: white;
-            padding-top: 7rem;
+            padding-top: 20rem;
             padding-bottom: 4rem;
-            height: 350px;
+            height: 550px;
 
         }
 

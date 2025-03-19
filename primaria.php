@@ -51,14 +51,14 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, .2)), url("./assets/img/web/banner_primaria.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, .3)), url("./assets/img/web/banner_primaria.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
             background-position: center;
             color: white;
-            padding-top: 7rem;
+            padding-top: 20rem;
             padding-bottom: 4rem;
-            height: 350px;
+            height: 550px;
 
         }
 

@@ -38,14 +38,14 @@
 
     <style>
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/noticias_banner.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, .3)), url("./assets/img/web/noticias_banner.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
               background-position: center;
             color: white;
-            padding-top: 7rem;
+            padding-top: 20rem;
             padding-bottom: 4rem;
-            height: 350px;
+            height: 550px;
 
         }
 

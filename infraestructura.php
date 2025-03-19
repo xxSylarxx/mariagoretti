@@ -62,7 +62,7 @@
         }
 
         #portada {
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, .6)), url("./assets/img/web/infraestructura_banner.jpg");
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, .4)), url("./assets/img/web/infraestructura_banner.jpg");
             /* background-image: url("./assets/img/portada-all-1.png"); */
             background-size: 100%;
             background-position: center 45%;
