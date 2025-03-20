@@ -360,96 +360,97 @@
                 <img id="imageborder" src="./assets/img/web/b_secundaria.jpg" class="" width="90%">
             </div>
         </div>
-        <br><br>
+    </section>
+    <br><br>
 
-        <section class="container" id="metodologia">
-            <div id="visitas" class="row justify-content-between align-items-center">
-                <div class="col-md-6 px-lg-4 d-flex justify-content-center">
-                </div>
+    <section class="container" id="metodologia">
+        <div id="visitas" class="row justify-content-between align-items-center">
+            <div class="col-md-6 px-lg-4 d-flex justify-content-center">
             </div>
-            </div>
-            <br>
-            <section id="curriculo">
-                <div class="container">
-                    <center><span style="font-weight:bold;font-size:1.5rem;">Metodología: </span></center>
+        </div>
+        </div>
+        <br>
+        <section id="curriculo">
+            <div class="container">
+                <center><span style="font-weight:bold;font-size:1.5rem;">Metodología: </span></center>
+                <br>
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-6 px-0">
+                        <br>
+                        <div class="accordion" id="accordionExample">
+                            <ul class="timeline">
+                                <li>
+                                    <strong>Aprendizaje basado en competencias: </strong> Desarrollo de habilidades para resolver problemas y tomar decisiones.
+                                </li>
+                                <li>
+                                    <strong> Uso de tecnologías educativas: </strong> Integración de herramientas digitales y plataformas de aprendizaje virtual.
+                                </li>
+                                <li>
+                                    <strong>Trabajo colaborativo: </strong> Fomento del aprendizaje en equipo y la resolución de problemas de manera conjunta.
+                                </li>
+                                <li>
+                                    <strong> Orientación vocacional: </strong> Guía para la elección de carreras y preparación para la educación superior.
+                                </li>
+                                <li>
+                                    <strong>Proyectos interdisciplinarios: </strong> Aplicación de conocimientos de diferentes áreas en proyectos reales.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                     <br>
-                    <div class="row justify-content-between align-items-center">
-                        <div class="col-md-6 px-0">
-                            <br>
-                            <div class="accordion" id="accordionExample">
-                                <ul class="timeline">
-                                    <li>
-                                        <strong>Aprendizaje basado en competencias: </strong> Desarrollo de habilidades para resolver problemas y tomar decisiones.
-                                    </li>
-                                    <li>
-                                        <strong> Uso de tecnologías educativas: </strong> Integración de herramientas digitales y plataformas de aprendizaje virtual.
-                                    </li>
-                                    <li>
-                                        <strong>Trabajo colaborativo: </strong> Fomento del aprendizaje en equipo y la resolución de problemas de manera conjunta.
-                                    </li>
-                                    <li>
-                                        <strong> Orientación vocacional: </strong> Guía para la elección de carreras y preparación para la educación superior.
-                                    </li>
-                                    <li>
-                                        <strong>Proyectos interdisciplinarios: </strong> Aplicación de conocimientos de diferentes áreas en proyectos reales.
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <br>
-                        <br>
-                        <br>
+                    <br>
+                    <br>
 
-                        <div class="col-md-6 my-auto py-5" style="display: flex;align-items:end;">
-                            <img id="imageborder" src="./assets/img/web/sec_metodologia.jpg" class="" width="100%">
-                        </div>
+                    <div class="col-md-6 my-auto py-5" style="display: flex;align-items:end;">
+                        <img id="imageborder" src="./assets/img/web/sec_metodologia.jpg" class="" width="100%">
                     </div>
-                    <div class="row d-flex justify-content-center ">
-                        <div class="row d-flex justify-content-around">
-                            <div class="col-lg-3 pt-0 px-0">
-                                <ul class="course-list">
-                                    <li class="course-item my-2">
-                                        <i class="fas fa-check-circle"></i> Desarrollo del pensamiento crítico y analítico.
-                                    </li>
-                                    <li class="course-item my-2">
-                                        <i class="fas fa-check-circle"></i> Desarrollo del pensamiento crítico y analítico.
-                                    </li>
+                </div>
+                <div class="row d-flex justify-content-center ">
+                    <div class="row d-flex justify-content-around">
+                        <div class="col-lg-3 pt-0 px-0">
+                            <ul class="course-list">
+                                <li class="course-item my-2">
+                                    <i class="fas fa-check-circle"></i> Desarrollo del pensamiento crítico y analítico.
+                                </li>
+                                <li class="course-item my-2">
+                                    <i class="fas fa-check-circle"></i> Desarrollo del pensamiento crítico y analítico.
+                                </li>
 
-                                </ul>
-                            </div>
+                            </ul>
+                        </div>
 
-                            <div class="col-lg-3 p-0">
-                                <ul class="course-list">
-                                    <li class="course-item my-2">
-                                        <i class="fas fa-check-circle"></i> Habilidades digitales y tecnológicas avanzadas.
-                                    </li>
-                                    <li class="course-item my-2">
-                                        <i class="fas fa-check-circle"></i> Preparación para la educación superior y el mundo laboral.
-                                    </li>
-                                </ul>
-                            </div>
+                        <div class="col-lg-3 p-0">
+                            <ul class="course-list">
+                                <li class="course-item my-2">
+                                    <i class="fas fa-check-circle"></i> Habilidades digitales y tecnológicas avanzadas.
+                                </li>
+                                <li class="course-item my-2">
+                                    <i class="fas fa-check-circle"></i> Preparación para la educación superior y el mundo laboral.
+                                </li>
+                            </ul>
+                        </div>
 
 
-                            <div class="col-lg-3 p-0">
-                                <ul class="course-list">
-                                    <li class="course-item my-2">
-                                        <i class="fas fa-check-circle"></i> Formación en valores y responsabilidad social.
-                                    </li>
-                                </ul>
-                            </div>
-
+                        <div class="col-lg-3 p-0">
+                            <ul class="course-list">
+                                <li class="course-item my-2">
+                                    <i class="fas fa-check-circle"></i> Formación en valores y responsabilidad social.
+                                </li>
+                            </ul>
                         </div>
 
                     </div>
 
-            </section>
-            
+                </div>
 
         </section>
-        
-           <br><br>
-    
-    
+
+
+    </section>
+
+    <br><br>
+
+
     <?php include_once 'includes/footer.php' ?>
 
     <script>

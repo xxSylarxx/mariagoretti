@@ -14,7 +14,7 @@
         opacity: 0.8;
         cursor: pointer;
         z-index: 100;
-        background: #333333; 
+        background: #333333;
         width: 50px;
         height: 50px;
         /* border-radius: 50%; */
@@ -118,10 +118,10 @@
         opacity: 0.8;
         cursor: pointer;
         z-index: 100;
-       /*  background-color: rgb(255, 255, 255, 1); */
+        /*  background-color: rgb(255, 255, 255, 1); */
         width: 50px;
         height: 50px;
-       /*  padding-top: 4px;
+        /*  padding-top: 4px;
         padding-left: 8px; */
         /* border: 2px solid white; */
         border-radius: 50%;
@@ -132,8 +132,8 @@
         /* height: 28px;
         width: 32px; */
         width: 110%;
-        height:52px;
-       /*  margin-top: 7px;
+        height: 52px;
+        /*  margin-top: 7px;
         margin-left: 2px; */
     }
 
@@ -148,7 +148,7 @@
         opacity: 0.8;
         cursor: pointer;
         z-index: 100;
-       /*  background-color: #f22224; */
+        /*  background-color: #f22224; */
         background-color: #3b5998;
         width: 50px;
         height: 50px;
@@ -291,7 +291,7 @@
                 <div class="d-flex text-white my-3" style="align-items: center;">
                     <span style="width: 10px; text-align: center;"><i class="fas fa-phone-alt"></i></span>
                     <span class="ms-4">
-                    (01) 702 4072</span>
+                        (01) 702 4072</span>
                     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
                     <span style="width: 10px; text-align: center;"><i class="fas fa-mobile-alt"></i></span>
                     <span class="ms-3">978346581 – 946623036</span>
@@ -409,9 +409,6 @@
 
         </a>
     </div>
-
-
-    
 </footer>
 <!-- Para llamar a los iconos -->
 <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
